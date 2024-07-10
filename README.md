@@ -1,2 +1,3 @@
 # GenAI-Chatbot
-Generative AI Chatbot using Internal Data Source
+Generative AI Chatbot using an Internal Data Source. In this example, the source is a PDF review article from the "International Journal of Pharmaceutical Sciences and Research." The goal was to build a Generative AI Chatbot on a proprietary source not seen by ChatGPT and to generate new results from user queries (prompt engineering, embeddings, and vector storing). The libraries used were Streamlit (https://streamlit.io/), PyPDF2 (https://pypdf2.readthedocs.io/en/3.x/), and LangChain (https://python.langchain.com/v0.2/docs/introduction/). The IDE used was PyCharm (https://www.jetbrains.com/pycharm/).
+
